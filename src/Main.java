@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Love save the world!");
         System.out.println("Forever young");
         System.out.println("Illusion is the first of all pleasures.");
+
+        System.out.println("Its commit one");
     }
 }
