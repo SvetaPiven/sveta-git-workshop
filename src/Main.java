@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Illusion is the first of all pleasures.");
 
         System.out.println("Its commit one");
+        System.out.println("Its commit two");
     }
 }
